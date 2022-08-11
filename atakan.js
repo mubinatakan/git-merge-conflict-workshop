@@ -1,3 +1,4 @@
-function hello () {
-    console.log("Hello Git Merge Conflict");
+function hello (){
+
+    const what = "Merge conflict";
 }
