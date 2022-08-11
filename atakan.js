@@ -1,7 +1,8 @@
-function hello () {
+function hello() {
     console.log("HERE Git Merge Conflict");
-    const why = "dasjsdn";
-    console.log ("ksjadnaajksn");
-    
-}
 
+    const who = "dasjsdn";
+    console.log("ksjadnaajksn"); 
+
+
+}
