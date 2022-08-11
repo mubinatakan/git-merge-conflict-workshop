@@ -1,4 +1,5 @@
-function hello (){
-
-    const what = "Merge conflict";
+function hello () {
+    console.log("HERE Git Merge Conflict");
+    const what = "dasjsdn";
 }
+
